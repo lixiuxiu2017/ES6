@@ -1,4 +1,4 @@
-#这是ES6新增的所有功能demo
+#  这是ES6新增的所有功能demo
 #  lesson1.js     let 和 const 命令
 #  lesson2.js     解构赋值
 #  lesson3.js     正则表达式的扩展
